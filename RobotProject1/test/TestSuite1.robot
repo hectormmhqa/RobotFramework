@@ -63,3 +63,8 @@ LoginKW
     Input Text        id=txtUsername    @{CREDENTIALS}[0]
     Input Password    id=txtPassword    &{LOGINDATA}[password]
     Click Button      id=btnLogin    
+    
+MyFourthTest
+    
+  Log    I am inside 4th test    
+  
